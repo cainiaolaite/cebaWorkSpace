@@ -18,7 +18,7 @@
         <maven.compiler.source>10</maven.compiler.source>
         <maven.compiler.target>10</maven.compiler.target>
 
-        <dubbo.version>2.6.2</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
         <zookeeper.version>3.4.13</zookeeper.version>
         <curator.framework.version>2.12.0</curator.framework.version>
     </properties>
