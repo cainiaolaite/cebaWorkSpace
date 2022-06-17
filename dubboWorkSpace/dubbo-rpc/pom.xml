@@ -9,7 +9,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>10</maven.compiler.source>
         <maven.compiler.target>10</maven.compiler.target>
-        <fastjson.version>1.2.6</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
     </properties>
 
     <groupId>com.hua.dubbo</groupId>
